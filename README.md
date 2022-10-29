@@ -1,5 +1,4 @@
 # 🚘 Responsive Car website
-## [Watch it on youtube](https://youtu.be/bDngcOQ8Img)
 ### 🚘 Responsive Car website
 
 - Адаптивный автомобильный веб-сайт с использованием HTML CSS и JavaScript
