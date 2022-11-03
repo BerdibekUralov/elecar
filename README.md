@@ -1,5 +1,5 @@
 # 🚘 Responsive Car website
-## [Watch it on netlify](https://e1ecar.netlify.app)
+## [Смотри на netlify](https://e1ecar.netlify.app)
 ### 🚘 Responsive Car website
 
 - Адаптивный автомобильный веб-сайт с использованием HTML CSS и JavaScript
